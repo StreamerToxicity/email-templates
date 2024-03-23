@@ -1,4 +1,4 @@
-<span style="font-size: 22px;">Account Unbanned</span>
+<span style="font-size: 22px; font-weight: bold;">Account Unbanned</span>
 
 <p style="font-size: 16px;">Your account has been unbanned.<br>You can now access your account freely.</p>
 
