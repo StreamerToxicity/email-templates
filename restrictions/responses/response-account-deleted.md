@@ -1,6 +1,6 @@
 <span style="font-size: 22px; font-weight: bold;">Account Deletion Notice</span>
 
-<p style="font-size: 16px;">Your account has been permanently banned and subsequently deleted.<br>**Please note that this action cannot be reversed.**</p>
+<p style="font-size: 16px;">Your account has been permanently banned and subsequently deleted.<br><strong>Please note that this action cannot be reversed.</strong></p>
 
 ---
 
