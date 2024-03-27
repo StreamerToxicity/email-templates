@@ -1,6 +1,6 @@
 <span style="font-size: 22px; font-weight: bold;">Account Banned</span>
 
-<p style="font-size: 16px;">Your account has been banned for the following reason: <br><strong>{1}</strong>.<br>Your account will be deleted in <strong>{2}</strong> day(s).</p>
+<p style="font-size: 16px;">Your account has been banned for the following reason: <br><strong>{1}</strong><br>Your account will be deleted in <strong>{2}</strong> day(s).</p>
 
 ---
 
